@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="76px" height="76px" viewBox="0 0 76 76" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="0" dy="5" />
+      <feGaussianBlur stdDeviation="5" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.2784314 0 0 0 0 0.3607843 0 0 0 0 0.8392157 0 0 0 1 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+  </defs>
+  <g id="Play" transform="translate(0.5 0.5)">
+    <g filter="url(#filter_1)">
+      <path d="M37.5 75C58.2107 75 75 58.2107 75 37.5C75 16.7893 58.2107 0 37.5 0C16.7893 0 0 16.7893 0 37.5C0 58.2107 16.7893 75 37.5 75Z" id="Oval" fill="#FECE00" stroke="none" />
+    </g>
+    <g id="48px_button-play" transform="translate(31 25)">
+      <path d="M0.692308 26C0.309957 26 0 25.6937 0 25.3158L0 0.684214C1.22979e-15 0.425055 0.148155 0.188138 0.382698 0.072238C0.617241 -0.0436618 0.897911 -0.0186498 1.10769 0.136846L17.7231 12.4526C17.8974 12.5819 18 12.7846 18 13C18 13.2154 17.8974 13.4182 17.7231 13.5474L1.10769 25.8632C0.987975 25.9522 0.842143 26.0002 0.692308 26L0.692308 26Z" id="Path" fill="#FFFFFF" stroke="none" />
+    </g>
+  </g>
+</svg>
