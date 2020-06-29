@@ -189,7 +189,7 @@ nav .toggle-button:focus {
 }
 
 .main-hero .hero .text-part h1 {
-    font-size: 7rem;
+    font-size: 5rem;
     letter-spacing: 15px;
     margin-top: 0;
     margin-bottom: 0;
@@ -264,7 +264,7 @@ nav .toggle-button:focus {
 }
 
 .live-update {
-    height: 15rem;
+    height: auto;
     width: 40%;
     margin: auto;
     border: 2px solid;
@@ -326,7 +326,7 @@ nav .toggle-button:focus {
 }
 
 .how-to h2 {
-    font-size: 3.5rem;
+    font-size: 3rem;
 }
 
 .how-to .side-bar {
@@ -351,7 +351,7 @@ nav .toggle-button:focus {
 }
 
 .card {
-    min-width: 50%;
+    min-width: 40%;
 }
 
 .card img {
@@ -372,7 +372,7 @@ nav .toggle-button:focus {
 .symptom {
     background-color: #6075EB;
     border: 1px solid #7087FF;
-    width: 40%;
+    width: 60%;
     margin: auto;
     padding: 2%;
     margin-top: 3%;
@@ -380,7 +380,7 @@ nav .toggle-button:focus {
 }
 
 .section-2 h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     text-align: right;
 }
 
@@ -570,6 +570,7 @@ footer {
     width: 100%;
     padding-top: 5%;
     padding-bottom: 5%;
+    padding-left:2%;
 }
 
 footer ul {
